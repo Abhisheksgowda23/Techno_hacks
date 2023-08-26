@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# - # LGMVIP - Data Science Intern
+
 # - # Task 2: Stock Market Prediction And Forecasting Using Stacked LSTM
 # - # Submitted by: Abhishek S
 
